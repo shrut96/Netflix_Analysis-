@@ -1,10 +1,10 @@
 # Analysis of Movies and TV Shows on Netflix
 This dataset consists of TV shows and movies available on Netflix as of 2019. The dataset is collected from Kaggle.com. In this notebook we are going to process and analyze the data using Numpy and Pandas libraries,then we will visualize it using matplotlib and seaborn libraries.
-###cLbraries needs to install 
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
+### Libraries needs to install 
+1. pip install pandas
+2. pip install numpy
+3. pip install matplotlib
+4. pip install seaborn
 
 Dataset: https://www.kaggle.com/shivamb/netflix-shows
 
