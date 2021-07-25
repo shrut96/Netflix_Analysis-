@@ -18,4 +18,7 @@ We got to know the top 5 most popular ratings, top 5 countries producing most nu
 I have created dashboard using IBM Cognoos Analytics. 
 ### Dashboard Link: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNetflix%2BDashboard&action=view&mode=dashboard&subView=model0000017aca00b1c3_00000000
 
+![image](https://user-images.githubusercontent.com/71379698/126906982-cae940ca-bcbd-43d0-899b-cde670dfcbf9.png)
+
+
 All the best!
